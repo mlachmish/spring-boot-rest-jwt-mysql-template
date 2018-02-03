@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-rest-jwt-mysql-template.iml" filepath="$PROJECT_DIR$/spring-boot-rest-jwt-mysql-template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-boot-rest-jwt-mysql-template_main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-boot-rest-jwt-mysql-template_main.iml" group="spring-boot-rest-jwt-mysql-template" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-boot-rest-jwt-mysql-template_test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-boot-rest-jwt-mysql-template_test.iml" group="spring-boot-rest-jwt-mysql-template" />
+    </modules>
+  </component>
+</project>
